@@ -80,3 +80,10 @@ Contributions to improve the project are welcome. Please feel free to submit a P
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Deployed Link
+
+[https://cvd-cnn-pipeline-v2.onrender.com/](url)
+
+
+
