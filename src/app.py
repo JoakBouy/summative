@@ -7,11 +7,11 @@ import streamlit as st
 import pandas as pd
 from pyngrok import ngrok
 
-from visualization import analysis_visualizations
-from preprocessing import data_preprocessing
-from splitting import data_splitting
-from training import model_building
-from testing import model_testing
+from UI.visualization import analysis_visualizations
+from data.preprocessing import data_preprocessing
+from data.splitting import data_splitting
+from data.training import model_building
+from data.testing import model_testing
 
 # Title
 st.title("Machine Learning Model to test for Presence of Cardio Vascular Diseases")
